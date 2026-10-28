@@ -7,11 +7,11 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
 export const metadata: Metadata = {
   title: {
-    default: "Mahanth Ltd — Software Engineering Consultancy",
-    template: "%s · Mahanth Ltd",
+    default: "Mahanth Limited — Software Engineering Consultancy",
+    template: "%s · Mahanth Limited",
   },
   description:
-    "Mahanth Ltd builds and ships real software products, then helps your team do the same — full-stack engineering, cloud infrastructure, and payments systems expertise.",
+    "Mahanth Limited builds and ships real software products, then helps your team do the same — full-stack engineering, cloud infrastructure, and payments systems expertise.",
   metadataBase: new URL("https://mahanthltd.co.uk"),
   // One-time proof of domain ownership for the Meta for Developers app
   // (Business Manager domain verification) — Next renders this straight

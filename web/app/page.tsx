@@ -30,7 +30,7 @@ function Wordmark() {
   return (
     <Link href="/" className="inline-flex items-center gap-2.5 text-lg font-bold tracking-tight text-foreground">
       <Image src="/images/mahanth-mark.png" alt="" width={30} height={25} className="h-[1.6em] w-auto" priority />
-      Mahanth Ltd
+      Mahanth Limited
     </Link>
   );
 }
@@ -75,7 +75,7 @@ function Hero() {
           Then we help you build yours.
         </h1>
         <p className="mx-auto mt-6 max-w-2xl text-lg text-muted">
-          Mahanth Ltd is a team of engineers who ship production software for real businesses — and bring that same
+          Mahanth Limited is a team of engineers who ship production software for real businesses — and bring that same
           rigor to your technology strategy, product engineering, and infrastructure.
         </p>
         <div className="mt-8 flex flex-col items-center justify-center gap-3 sm:flex-row">
@@ -321,7 +321,7 @@ function Team() {
           />
           <div className="text-center sm:text-left">
             <h3 className="text-xl font-bold text-foreground">Durairaj Subramaniam</h3>
-            <p className="text-sm font-medium text-brand-cyan">Director &amp; Technologist, Mahanth Ltd</p>
+            <p className="text-sm font-medium text-brand-cyan">Director &amp; Technologist, Mahanth Limited</p>
             <p className="mt-3 text-sm leading-relaxed text-muted">
               Engineer and founder with experience spanning payments infrastructure, WhatsApp-commerce platforms, and
               full-stack product delivery — the hands-on work behind every product in our portfolio.
@@ -418,7 +418,7 @@ function SiteFooter() {
             <TwitterIcon className="size-4" />
           </SocialLink>
         </div>
-        <p className="text-xs text-muted">© {new Date().getFullYear()} Mahanth Ltd. All rights reserved.</p>
+        <p className="text-xs text-muted">© {new Date().getFullYear()} Mahanth Limited. All rights reserved.</p>
       </div>
     </footer>
   );
