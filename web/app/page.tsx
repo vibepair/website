@@ -166,10 +166,11 @@ const PRODUCTS = [
       "Local People. Real Work. A trusted marketplace connecting verified local professionals with blue-collar job postings.",
   },
   {
-    name: "VibePair",
-    url: "https://vibepair.in",
-    logo: "/images/products/vibepair.png",
-    description: "A modern matching platform built for real connections, not endless swiping.",
+    name: "MeetDays",
+    url: "https://meetdays.com",
+    logo: "/images/products/meetdays.png",
+    description:
+      "Sports academy management — teams, schedules, attendance, fees, announcements and match reports for academies, coaches, families and players, on web and mobile.",
   },
 ];
 
@@ -280,7 +281,7 @@ function Technology() {
       />
       <p className="mx-auto mt-4 max-w-2xl text-center text-base leading-relaxed text-muted">
         Beyond the language list, this is what we hold every system to — the same principles behind TirupurHub,
-        OrderSmart, TheHire.in, and VibePair, and what we bring to client work.
+        OrderSmart, TheHire.in, and MeetDays, and what we bring to client work.
       </p>
 
       <div className="mt-10 flex flex-wrap justify-center gap-2">
